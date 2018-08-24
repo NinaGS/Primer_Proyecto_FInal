@@ -9,8 +9,7 @@
   - Sección "Eventos Deportivos".
   - Sección "Tips Nutricionales".
   - Sección "Recetas Sanas".
-  - Sección "Talleres".
-  - Sección "Clases en plazas".
+  - Sección "Actividades" con talleres.
   - Sección "Contacto".
   - La página debe ser responsiva.
 
@@ -32,39 +31,22 @@
 
 - Barra de navegación:
  - clase: navbar__navigation para el navbar
- - clase: navbar_*** para el nav
+ - clase: menu
  - clase ***
 - Sección Header 
  - clase header__***
 - Sección Eventos Deportivos
- - clase ***
- - clase ***
- - clase ***
- - clase ***
+ - clase "deportes"
 - Sección Tips Nutricionales
- - clase ***
- - clase ***
- - clase ***
+ - clase "nutri"
 - Sección Recetas Sanas
- - clase ***
- - clase ***
- - clase ***
- - clase ***
-- Sección Talleres
- - clase ***
- - clase ***
- - clase ***
- - clase ***
-- Sección Clases en Plazas
- - clase ***
- - clase ***
- - clase ***
- - clase ***
+ - clase "recetas"
+- Sección Actividades
+ - clase "actividades"
 - Sección Contacto
-- clase ***
+- clase "contacto"
 - Footer
- - clase footer_***
- - clase logo-***-footer
+ - clase card_footer
 
 ## Diseño de Mockup (pre-maquetado)
 
@@ -72,11 +54,11 @@
 
 ## Diseño para Desktop
 
-![](assets/mockup/nombre de foto)
+![](assets/mockup/pre-maqueta-desktop.jpeg)
 
 
 
 
 ## Diseño para dispositivos móviles
 
-![](assets/mockup/nombre de foto)
+![](assets/mockup/pre-maqueta-movil.jpeg)
